@@ -1,0 +1,22 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+.page_nav > li {
+  list-style: none;
+}
+.page_nav > li > a {
+  text-decoration: none;
+  color: black;
+}
+.page_nav {
+  display: flex;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+.Hero_icon {
+  max-width: 2rem;
+}
